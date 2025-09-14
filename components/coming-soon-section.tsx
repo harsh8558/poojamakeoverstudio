@@ -110,15 +110,15 @@ export function ComingSoonSection() {
           <div className="flex flex-wrap justify-center gap-6 mt-12 text-muted-foreground">
             <div className="flex items-center gap-2">
               <Phone className="w-4 h-4" />
-              <span className="text-sm">+91 98765 43210</span>
+              <span className="text-sm">+91 9120346006</span>
             </div>
             <div className="flex items-center gap-2">
               <Mail className="w-4 h-4" />
-              <span className="text-sm">info@poojamakeoverstudio.com</span>
+              <span className="text-sm">contact@poojamakeoverstudio.com</span>
             </div>
             <div className="flex items-center gap-2">
               <MapPin className="w-4 h-4" />
-              <span className="text-sm">Mumbai, India</span>
+              <span className="text-sm">Lucknow, UP</span>
             </div>
           </div>
 
@@ -143,7 +143,7 @@ export function ComingSoonSection() {
 
         {/* Footer */}
         <div className="mt-16 pt-8 border-t border-border/30">
-          <p className="text-muted-foreground text-sm">© 2024 Pooja Makeover Studio. All rights reserved.</p>
+          <p className="text-muted-foreground text-sm">© 2025 Pooja Makeover Studio. All rights reserved.</p>
         </div>
       </div>
     </div>
